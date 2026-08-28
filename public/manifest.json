@@ -1,0 +1,18 @@
+{
+  "name": "RW Routine App",
+  "short_name": "RW Routine",
+  "id": "com.rw.routineapp",
+  "description": "Personal 3-Year BCA Learning & Productivity Operating System for Yash Vishal (Ganpat University)",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090d16",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
